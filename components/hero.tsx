@@ -33,7 +33,7 @@ export default function Hero() {
           <div className="md:w-1/2 space-y-6">
             <h2 className="text-xl md:text-2xl font-medium text-primary">Hello, I'm</h2>
             <h1 className="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-              Chriffer John Langomesss
+              Chriffer John Langomes
             </h1>
             <div className="h-12">
               <h2 className="text-2xl md:text-3xl font-semibold text-muted-foreground">
